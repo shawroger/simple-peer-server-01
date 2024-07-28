@@ -1,0 +1,12 @@
+{
+    "name": "peer-server",
+    "author": {
+        "name": "shawroger"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "devDependencies": {
+        "peer": "^1.0.2"
+    }
+}
